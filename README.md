@@ -3,13 +3,19 @@ Matan Toledano
 
 If you have any questions or encounter any issues with this project, feel free to contact me at matantoled@gmail.com. I'll be more than happy to help!
 
+![image](https://github.com/user-attachments/assets/24d64033-8e41-4633-893d-ece746bbcb8c)
+
+
+## Gameplay Video
+To see the game in action, check out the gameplay video on YouTube: [Circle The Cat Gameplay](https://youtu.be/tryT3d_zjac)
+
+
 # Circle The Cat
 
 "Circle The Cat" is a strategy puzzle game where players must trap a cat on a game board by blocking its path with tiles.
 The game is built using the SFML graphics library and utilizes the BFS (Breadth-First Search) algorithm to determine the cat's movements on the board.
 
-## Gameplay Video
-To see the game in action, check out the gameplay video on YouTube: [Circle The Cat Gameplay](https://youtu.be/tryT3d_zjac)
+
 
 
 ## Getting Started
